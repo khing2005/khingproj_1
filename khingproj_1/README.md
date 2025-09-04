@@ -1,4 +1,4 @@
-`khingproject` is a lightweight Python package that provides simple utility functions
+`khingproj_1` is a lightweight Python package that provides simple utility functions
 for **Magnitude**, **Dot product**, and **Cross Product**.
 It is designed mainly for learning purposes and as an example of Python packaging.
 
@@ -16,4 +16,5 @@ It is designed mainly for learning purposes and as an example of Python packagin
 You can install the package directly from PyPI:
 
 ```bash
-pip install khingproject
+pip install khingproj_1
+
